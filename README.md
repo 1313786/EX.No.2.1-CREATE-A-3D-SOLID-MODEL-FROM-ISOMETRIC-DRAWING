@@ -74,8 +74,8 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 
 ## OUTPUT
 
-
 ![Uploading WhatsApp Image 2024-12-25 at 13.14.46_5bbd76d0.jpg…]()
+
 
 
 ## RESULT: 
